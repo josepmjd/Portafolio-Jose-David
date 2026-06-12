@@ -10,5 +10,5 @@ Aquí recopilo algunos proyectos, desarrollos, experimentos y trabajos realizado
 - Procesamiento y análisis de señales
 - Electrónica analógica y digital
 - Proyectos de ingeniería aplicada
-- 
+
 Este repositorio continúa creciendo a medida que desarrollo nuevos proyectos y documentación técnica.
