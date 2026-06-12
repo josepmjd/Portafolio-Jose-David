@@ -1,0 +1,38 @@
+# Arduino
+*.o
+*.a
+*.so
+.DS_Store
+*.swp
+*~
+
+# C#
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+.vs/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if any frontend)
+node_modules/
+dist/
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
