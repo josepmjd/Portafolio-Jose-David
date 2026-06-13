@@ -11,6 +11,6 @@ Control de motorreductor mediante potenciometro.
 - Arduino
 - Motorreductor
 - Potenciometro
-- (Otros componentes)
+- Puente H
 
 ## Notas
