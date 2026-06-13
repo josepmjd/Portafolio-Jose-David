@@ -1,14 +1,12 @@
-# Portafolio de José 
+#Portafolio de José David
+Este repositorio recopila proyectos, experimentos y trabajos que he desarrollado durante mi formación en Ingeniería Electrónica (UPTC) y mi experiencia técnica en electrónica, automatización y programación.
+La mayoría nacieron como proyectos académicos o necesidades reales del día a día — desde sistemas de monitoreo hasta automatización de procesos.
 
-Aquí recopilo algunos proyectos, desarrollos, experimentos y trabajos realizados durante mi formación en Ingeniería Electrónica y mi experiencia técnica.
+##Áreas de interés
+Sistemas embebidos (Arduino, ESP32, PIC16)
+Automatización y control industrial/residencial
+Desarrollo de software en C# para interfaces de monitoreo
+Procesamiento y análisis de señales
+Electrónica analógica y digital
 
-## Áreas de interés
-
-- Sistemas embebidos (Arduino y ESP32)
-- Automatización y control
-- Desarrollo de software en C#
-- Procesamiento y análisis de señales
-- Electrónica analógica y digital
-- Proyectos de ingeniería aplicada
-
-Este repositorio continúa creciendo a medida que desarrollo nuevos proyectos y documentación técnica.
+Este repositorio sigue creciendo conforme avanzo en nuevos proyectos.
