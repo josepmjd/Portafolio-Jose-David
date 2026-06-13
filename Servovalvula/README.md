@@ -1,15 +1,15 @@
 # Servovalvula
 
 ## Descripción
-Control de servovalvula con Arduino.
+Control de servovalvula casera con Arduino.
 
 ## Archivos del Proyecto
 - `codigo.ino` - Código principal
-- (Otros archivos del proyecto)
 
 ## Componentes Utilizados
 - Arduino
-- Servovalvula
-- (Otros componentes)
+- Valvula o registro adapaptado
+- Motorreductor
+- Sensores de posicion
 
 ## Notas
